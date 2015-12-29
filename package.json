@@ -1,0 +1,41 @@
+{
+  "name": "openarpa-scrape",
+  "version": "1.3.2",
+  "description": "nodeJS module to scraping ARPA site",
+  "main": "openarpa-scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opendatabari/openARPA-scrape.git"
+  },
+  "keywords": [
+    "ARPA",
+    "Puglia",
+    "ambiente"
+  ],
+  "author": {
+    "name": "Giuseppe Zileni",
+    "url": "me@gzileni.name"
+  },
+  "license": "CC 1.0",
+  "bugs": {
+    "url": "https://github.com/opendatabari/openARPA-scrape/issues"
+  },
+  "homepage": "https://github.com/opendatabari/openARPA-scrape",
+  "dependencies": {
+    "import-io": "x.x.x",
+    "moment": "x.x.x",
+    "request": "x.x.x",
+    "string": "^3.0.0",
+    "underscore": "x.x.x",
+    "string": "x.x.x"
+  },
+  "readme": "# openARPA-scrape\nnodeJS module to scraping ARPA's site\n",
+  "readmeFilename": "README.md",
+  "gitHead": "f8e688ff83ad176a6cd682dfac79972ef3659ef5",
+  "_id": "openarpa-scrape@1.0.3",
+  "_shasum": "9b10169d0466f2bfdab5add978e12b2dab746122",
+  "_from": "openarpa-scrape@1.0.3"
+}
